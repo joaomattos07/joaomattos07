@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é João Pedro de Mattos 
 
-💻 Sou Desenvolvedor focado em Front-End e Web Designer. 
+💻 Desenvolvedor Front-End em formação.
 
 ---
 
