@@ -40,7 +40,3 @@
 <a href="mailto:joaopedro261206@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
 </a>
-
-<a href="https://github.com/joaomattos07" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
-</a>
