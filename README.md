@@ -27,7 +27,7 @@
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,ps&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,ps,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
