@@ -15,7 +15,7 @@
 
 ### Front-End
 
-[![My Skills](https://skillicons.dev/icons?i=js,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Back-End
 
