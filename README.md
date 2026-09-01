@@ -32,8 +32,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma]
-(https://camo.githubusercontent.com/d55d5bb50029fadff08601380a23550fe995f729a2b319c52d5752ebbe8d25bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3546433345343f7374796c653d666c61742d737175617265266c6f676f3d4669676d61266c6f676f436f6c6f723d7768697465)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
