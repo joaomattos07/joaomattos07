@@ -7,7 +7,7 @@
 ## 🚀 Sobre mim
 
 - 🎨 Focado em Front-End e Web Design
-- - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
 - 💻 Desenvolvedor em formação
 - 🌐 Criação de sites responsivos e modernos
 - 🧠 Interesse em interfaces, experiência do usuário e desenvolvimento web
