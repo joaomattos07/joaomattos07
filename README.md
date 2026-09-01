@@ -33,10 +33,7 @@
 
 ## 🌐 Contact
 
-<a href="https://www.linkedin.com/in/joaopedrodemattos/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
-</a>
-
-<a href="mailto:joaopedro261206@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/joaopedrodemattos/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+  <a href="mailto:joaopedro261206@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
+</p>
